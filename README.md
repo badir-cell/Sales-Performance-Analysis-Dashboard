@@ -3,6 +3,9 @@
 
 This project provides a comprehensive analysis of company sales performance through an interactive Power BI dashboard. The dashboard addresses key executive questions about profitability, regional success, and product investment opportunities.
 
+
+<img width="860" height="484" alt="Screenshot 2025-10-02 144723" src="https://github.com/user-attachments/assets/e1f001a1-20d0-4033-a0c0-c8657c4128cf" />
+
 ## 🎯 PROJECT OBJECTIVES
 
 This analysis specifically answers the following executive requests:
